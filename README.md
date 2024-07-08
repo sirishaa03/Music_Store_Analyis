@@ -29,7 +29,7 @@ The results of the queries are provided in the `output_query_sheet.sql` file. Ea
 ## Setup and Usage
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/music-store-data-analysis.git
+   git clone https://github.com/sirishaa03/music_store_analysis.git
    ```
 2. **Set Up Database**:
   - Ensure you have PostgreSQL and pgAdmin installed.
